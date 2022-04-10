@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**myx980818/myx980818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myx980818&layout=compact)](https://github.com/myx980818/github-readme-stats)
 
 
-My ![Visitor Count](https://profile-counter.glitch.me/myx980818/count.svg) visitor
+![myx980818's GitHub stats](https://github-readme-stats.vercel.app/api?username=myx980818&show_icons=true&theme=darcula)
