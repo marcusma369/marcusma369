@@ -23,8 +23,8 @@
   
   [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/18641808/marcus-ma)
   [![zhihu](https://img.shields.io/badge/-知乎-black?style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/luan-dun-9)
-  [![bilibili](https://img.shields.io/badge/-bilibili-black?style=for-the-badge&logo=bilibili)](https://www.zhihu.com/people/luan-dun-9)
-  [![juejin](https://img.shields.io/badge/-掘金-black?style=for-the-badge&logo=juejin)](https://www.zhihu.com/people/luan-dun-9)
+  [![bilibili](https://img.shields.io/badge/-bilibili-black?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/51402205)
+  [![juejin](https://img.shields.io/badge/-掘金-black?style=for-the-badge&logo=juejin)](https://juejin.cn/user/2498515115455383)
   
   
   
