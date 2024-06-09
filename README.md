@@ -16,6 +16,7 @@
 
   ![Web](https://img.shields.io/badge/-Web-eedeb0?style=for-the-badge&logo=web)
   ![Mobile](https://img.shields.io/badge/-Mobile-eedeb0?style=for-the-badge&logo=mobile)
+  ![Game](https://img.shields.io/badge/-Game-eedeb0?style=for-the-badge&logo=game)
   
   
   ![marcusma369's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusma369&show_icons=true&theme=darcula)
