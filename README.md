@@ -14,9 +14,9 @@
   ![Rust](https://img.shields.io/badge/-Rust-394989?style=for-the-badge&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-eedeb0?style=for-the-badge&logo=python)
 
-  ![Web](https://img.shields.io/badge/-Web-eedeb0?style=for-the-badge&logo=web)
-  ![Mobile](https://img.shields.io/badge/-Mobile-eedeb0?style=for-the-badge&logo=mobile)
-  ![Game](https://img.shields.io/badge/-Game-eedeb0?style=for-the-badge&logo=game)
+  ![Web](https://img.shields.io/badge/-Web-e8e8e8?style=for-the-badge&logo=web)
+  ![Mobile](https://img.shields.io/badge/-Mobile-00f5ff?style=for-the-badge&logo=mobile)
+  ![Game](https://img.shields.io/badge/-Game-ee6363?style=for-the-badge&logo=game)
   
   
   ![marcusma369's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusma369&show_icons=true&theme=darcula)
