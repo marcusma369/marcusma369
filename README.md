@@ -7,11 +7,11 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-8fcfd1?style=for-the-badge&logo=typescript)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.js)
   
-  ![Go](https://img.shields.io/badge/-Go-394989?style=for-the-badge&logo=go)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-622a1d?style=for-the-badge&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-fff143?style=for-the-badge&logo=mysql)
   
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+  ![Rust](https://img.shields.io/badge/-Rust-394989?style=for-the-badge&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-eedeb0?style=for-the-badge&logo=python)
   
   
