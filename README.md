@@ -13,6 +13,9 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
   ![Rust](https://img.shields.io/badge/-Rust-394989?style=for-the-badge&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-eedeb0?style=for-the-badge&logo=python)
+
+  ![Web](https://img.shields.io/badge/-Web-eedeb0?style=for-the-badge&logo=web)
+  ![Mobile](https://img.shields.io/badge/-Mobile-eedeb0?style=for-the-badge&logo=mobile)
   
   
   ![marcusma369's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusma369&show_icons=true&theme=darcula)
